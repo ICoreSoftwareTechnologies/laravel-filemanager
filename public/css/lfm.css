@@ -11,7 +11,8 @@ a {
 }
 
 #nav, #nav .dropdown-menu, .bg-main {
-  background-color: #333844;
+  /* background-color: #333844; */
+  background-color : #e00f55;
 }
 
 #nav .dropdown-menu > a:hover {
@@ -331,7 +332,8 @@ time {
 
 .fab-wrapper .fab-button {
   position: relative;
-  background-color: #333844;
+  /* background-color: #333844; */
+  background-color : #e00f55;
   width: 3.5rem;
   height: 3.5rem;
   border-radius: 50%;
