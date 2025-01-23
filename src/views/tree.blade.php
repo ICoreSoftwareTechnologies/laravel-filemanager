@@ -3,7 +3,7 @@
   <small class="d-block">File Manager</small>
   <div class="row mt-3">
     <div class="col-4">
-      <img src="{{ asset('vendor/laravel-filemanager/img/152px color.png') }}" class="w-100">
+      <img src="{{ asset('vendor/laravel-filemanager/img/152px_color.png') }}" class="w-100">
     </div>
 
     <div class="col-8">
