@@ -12,7 +12,7 @@ a {
 
 #nav, #nav .dropdown-menu, .bg-main {
   /* background-color: #333844; */
-  background-color : #e00f55;
+  background-color : #d82e0d;
 }
 
 #nav .dropdown-menu > a:hover {
@@ -333,7 +333,7 @@ time {
 .fab-wrapper .fab-button {
   position: relative;
   /* background-color: #333844; */
-  background-color : #e00f55;
+  background-color : #d82e0d;
   width: 3.5rem;
   height: 3.5rem;
   border-radius: 50%;
@@ -380,7 +380,7 @@ time {
   right: 4rem;
   padding: .15rem .75rem;
   border-radius: .25rem;
-  background-color: rgba(0, 0, 0, .4);
+  background-color: #d82e0d;
   color: rgba(255, 255, 255, .8);
   text-align: right;
   font-size: .9rem;
